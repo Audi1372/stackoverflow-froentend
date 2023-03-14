@@ -1,0 +1,34 @@
+.home-container-1{
+    min-height: 100vh;
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+   justify-content: space-between;
+    margin: 0% auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.home-container-2{
+    max-width: 1100px;
+    width: calc(100% -164px);
+    padding: 50px 20px;
+   
+}
+
+/* .left-side{
+    margin-top: 30px;
+    padding-top: 10px;
+    width: 20%;
+    border-right: 1px solid #d5d9dc; 
+
+}
+*/
+ .middle{
+    width:70%;
+     border: 1px solid #d5d9dc; 
+     padding-left: 10px;
+     min-width: 0
+    }
+    .right-side{
+        padding-left: 10px;
+    } 
